@@ -1,0 +1,3 @@
+## Deployment
+
+    node server.js
