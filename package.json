@@ -1,0 +1,28 @@
+{
+  "name": "translate-example",
+  "version": "0.0.0",
+  "description": "Testing the react translate component.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pianoBrad/react-translate-test"
+  },
+  "author": "Brad Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pianoBrad/react-translate-test/issues"
+  },
+  "homepage": "https://github.com/pianoBrad/react-translate-test",
+  "dependencies": {
+    "react-interpolate-component": "^0.3.0",
+    "counterpart": "^0.10.0",
+    "envify": "^1.2.1",
+    "react": "^0.9.0",
+    "react-translate-component": "^0.3.0",
+    "express": "^3.4.8",
+    "connect-browserify": "^2.0.0"
+  }
+}
